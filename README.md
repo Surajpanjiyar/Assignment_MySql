@@ -78,8 +78,12 @@ Onum Amt Odate Cnum Snum
 
 On the basis of above tables perform given below questions
 
- Count the number of Salesperson whose name begin with ‘a’/’A’.
- Display all the Salesperson whose all orders worth is more than Rs. 2000.
- Count the number of Salesperson belonging to Newyork.
- Display the number of Salespeople belonging to London and belonging to Paris.
-Display the number of orders taken by each Salesperson and their date of orders.
+1. Count the number of Salesperson whose name begin with ‘a’/’A’.
+ 
+2. Display all the Salesperson whose all orders worth is more than Rs. 2000.
+ 
+3. Count the number of Salesperson belonging to Newyork.
+ 
+4. Display the number of Salespeople belonging to London and belonging to Paris.
+ 
+5. Display the number of orders taken by each Salesperson and their date of orders.
